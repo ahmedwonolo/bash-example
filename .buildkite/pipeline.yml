@@ -3,4 +3,4 @@ steps:
     command: "script.sh"
     artifact_paths: "artifacts/*"
     agents:
-      queue: "test"
+      queue: "ops"
