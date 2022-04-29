@@ -1,0 +1,48 @@
+agents:
+  queue: "ops"
+
+steps:
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
+
+  - label: ":sleeping: Random sleep"
+    command: "sleep.sh"
